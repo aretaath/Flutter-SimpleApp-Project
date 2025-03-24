@@ -1,16 +1,12 @@
-# flutter_application_1
+# Flutter Simple Application
 
-A new Flutter project.
+| Name  | Areta Athayayumna Arwaa |
+|-------|-------------------------|
+| NRP   | 5025221068              |
 
-## Getting Started
+## Description  
+This To-Do List application is a Flutter-based task management application that allows users to manage their task lists based on time categories. This application has CRUD (Create, Read, Update, Delete) features, where users can add new tasks, view task lists based on the selected category, mark tasks as complete or incomplete, edit task names, and delete unnecessary tasks.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo  
+You can see the application demo through the following link:  
+[Application Demo](https://drive.google.com/file/d/1_WKxhMiIfWg--L8wdjepKIVXQ3bmLOpd/view?usp=sharing)  
